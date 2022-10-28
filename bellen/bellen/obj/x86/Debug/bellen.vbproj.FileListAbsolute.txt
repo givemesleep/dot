@@ -1,0 +1,9 @@
+c:\users\pc#2\documents\visual studio 2010\Projects\bellen\bellen\bin\Debug\bellen.exe
+c:\users\pc#2\documents\visual studio 2010\Projects\bellen\bellen\bin\Debug\bellen.pdb
+c:\users\pc#2\documents\visual studio 2010\Projects\bellen\bellen\bin\Debug\bellen.xml
+c:\users\pc#2\documents\visual studio 2010\Projects\bellen\bellen\obj\x86\Debug\bellen.Resources.resources
+c:\users\pc#2\documents\visual studio 2010\Projects\bellen\bellen\obj\x86\Debug\bellen.vbproj.GenerateResource.Cache
+c:\users\pc#2\documents\visual studio 2010\Projects\bellen\bellen\obj\x86\Debug\bellen.exe
+c:\users\pc#2\documents\visual studio 2010\Projects\bellen\bellen\obj\x86\Debug\bellen.xml
+c:\users\pc#2\documents\visual studio 2010\Projects\bellen\bellen\obj\x86\Debug\bellen.pdb
+c:\users\pc#2\documents\visual studio 2010\Projects\bellen\bellen\obj\x86\Debug\bellen.frmCRUD.resources
